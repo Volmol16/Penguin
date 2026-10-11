@@ -1,0 +1,3 @@
+dependencies:
+  espressif/esp-tflite-micro: "^1.3.3"
+  esphome/esp-micro-speech-features: "^1.2.3"
